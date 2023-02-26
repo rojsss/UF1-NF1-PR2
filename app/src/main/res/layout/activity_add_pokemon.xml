@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/fondo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddPokemonActivity"
+    android:padding="50dp"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/ET_nom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nombre"
+        android:layout_marginTop="100dp"/>
+
+    <EditText
+        android:id="@+id/ET_tipo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Tipo del pokemom"
+        android:layout_marginTop="50dp"/>
+
+
+    <EditText
+        android:id="@+id/ET_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Número en la Pokedex"
+        android:layout_marginTop="50dp" />
+
+    <Button
+        android:id="@+id/BTN_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:backgroundTint="#F44336"
+        android:text="AÑADIR" />
+
+
+</LinearLayout>

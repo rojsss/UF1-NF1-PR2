@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7098398978",
+    "project_id": "pr2-jose-mathias",
+    "storage_bucket": "pr2-jose-mathias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7098398978:android:4784e224f269ad1b6dea1b",
+        "android_client_info": {
+          "package_name": "com.example.uf1_nf1_pr2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7098398978-sou2sp1oq5kqpocjds1lj5mast1glab3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrkflTEToqoXkq2hyLqr4b7HvlAyS1dOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7098398978-sou2sp1oq5kqpocjds1lj5mast1glab3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
